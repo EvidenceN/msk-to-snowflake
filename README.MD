@@ -1,0 +1,1 @@
+The purpose of this project is to build a data pipeline that sends data from AWS MSK directly to Snowflake
